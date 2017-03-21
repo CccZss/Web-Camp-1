@@ -6,7 +6,9 @@
 
 
 ## [](https://github.com/QGWebStudio/Web-Camp/blob/master/2017QGTrainingCamp/FirstWeek/task.md#笔记心得)笔记心得
+
 学习过程中，**多记笔记！**
+
 要求：
    * 条例清晰
    * 图文并茂
