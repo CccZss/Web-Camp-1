@@ -1,6 +1,4 @@
-﻿# [](https://github.com/QGWebStudio/Web-Camp/blob/master/2017QGTrainingCamp/FirstWeek/task.md)第一周任务
-
-## [](https://github.com/QGWebStudio/Web-Camp/blob/master/2017QGTrainingCamp/FirstWeek/task.md#本周周记)本周周记
+﻿## [](https://github.com/QGWebStudio/Web-Camp/blob/master/2017QGTrainingCamp/FirstWeek/task.md#本周周记)本周周记
 周记模板请参考 : [周记模板](https://github.com/QGWebStudio/Web-Camp/issues)
 >Note:
 >
